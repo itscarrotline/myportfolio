@@ -1,0 +1,20 @@
+.Sidenav {
+  height: 100%;
+  width: 400px;
+  background-color: rgba(255, 255, 255, 0);
+}
+.SidenavLinks {
+  height: 100%;
+  padding: 0;
+  width: 100%;
+}
+
+.nav-text {
+  color: rgb(0, 184, 230);
+  height: 50px;
+  width: 100%;
+  margin: 0%;
+  justify-content:right;
+  align-items: right;
+  text-align: right;
+}
